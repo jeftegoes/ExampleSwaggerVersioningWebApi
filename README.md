@@ -18,7 +18,7 @@
 
 ## 2.1. Result ApiVersioning
 
-|                                   |                                                                                      |
+| Type versioning                   |                                                                                      |
 | --------------------------------- | ------------------------------------------------------------------------------------ |
 | Query String Parameter Versioning | ![QueryStringApiVersionReader](Images/ApiVersioning/QueryStringApiVersionReader.PNG) |
 | Media/Header API Versioning       | ![HeaderApiVersionReader](Images/ApiVersioning/HeaderApiVersionReader.PNG)           |
@@ -28,7 +28,7 @@
 
 ## 2.2. Result ApiVersioningWithSwagger
 
-|         |                                                       |
+| Version |                                                       |
 | ------- | ----------------------------------------------------- |
 | v1      | ![v1](Images/ApiVersioningWithSwagger/v1.PNG)         |
 | v2      | ![v2](Images/ApiVersioningWithSwagger/v2.PNG)         |
